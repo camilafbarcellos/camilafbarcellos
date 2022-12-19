@@ -1,9 +1,9 @@
 ### Hello, world! Eu sou a Camila Barcellos 👋😊
 
-- 🎓 Acadêmica de Ciência da Computação - 5/8
+- 🎓 Acadêmica de Ciência da Computação - 6/8
 - 🏫 Instituto Federal Sul-rio-grandense (IFSul) - Câmpus Passo Fundo
-- 👩🏻‍💻 Atualmente estudo C++, Java, PostgreSQL, HTML, CSS, JavaScript e Python
-- ⚡ Tenho interesse em programação e banco de dados
+- 👩🏻‍💻 Atualmente estudo C++, Java, PostgreSQL, HTML, CSS, JavaScript, React e Python
+- ⚡ Tenho interesse em programação full stack e banco de dados
 
 ###
 <div align="center">
