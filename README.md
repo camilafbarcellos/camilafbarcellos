@@ -1,9 +1,10 @@
 ### Hello, world! Eu sou a Camila Barcellos 👋😊
 
-- 🎓 Acadêmica de Ciência da Computação - 6/8
-- 🏫 Instituto Federal Sul-rio-grandense (IFSul) - Câmpus Passo Fundo
-- 👩🏻‍💻 Atualmente estudo C++, Java, JavaScript, TypeScript, Node.JS, React.JS e Python
-- ⚡ Tenho interesse em programação full stack e banco de dados
+- 🎓 Acadêmica de Ciência da Computação (6/8)
+- 🏫 Instituto Federal Sul-rio-grandense (IFSul), Campus Passo Fundo
+- 📚 Atualmente estudo desenvolvimento web fulltstack com JavaScript/TypeScript, React e Node.JS
+- ⚡️ Também pratico e tenho interesse em C++, Java e Python
+- 🔥 Apaixonada por programação backend
 
 ###
 <div align="center">
@@ -14,11 +15,11 @@
 
 ###
 <div align="center">
-  <img align="center" alt="Lang_C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img align="center" alt="Lang_Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Lang_JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img align="center" alt="Lang_TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="Lang_Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="Lang_Reactjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="Lang_React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="Lang_C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img align="center" alt="Lang_Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Lang_Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </div>
