@@ -1,6 +1,6 @@
 ### Hello, world! Eu sou a Camila Barcellos 👋😊
 
-- 🎓 Acadêmica de Ciência da Computação (6/8)
+- 🎓 Acadêmica de Ciência da Computação (7/8)
 - 🏫 Instituto Federal Sul-rio-grandense (IFSul), Campus Passo Fundo
 - 📚 Atualmente estudo desenvolvimento web fulltstack com JavaScript/TypeScript, React e Node.JS
 - ⚡️ Também pratico e tenho interesse em C++, Java e Python
