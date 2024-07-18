@@ -1,10 +1,14 @@
-### Hello, world! Eu sou a Camila Barcellos 👋😊
+# Hello, world! I'm Camila Barcellos 👋😊
 
-- 🎓 Acadêmica de Ciência da Computação (8/8)
-- 🏫 Instituto Federal Sul-rio-grandense (IFSul), Campus Passo Fundo
-- 📚 Atualmente estudo desenvolvimento web fulltstack com JavaScript/TypeScript, React e Node.JS
-- ⚡️ Também pratico e tenho interesse em C++, Java e Python
-- 🔥 Apaixonada por programação backend
+🎓 **Computer Science Graduate** at Federal Institute of Rio Grande do Sul (IFSul)
+
+## About Me
+I'm a passionate fullstack developer with a love for developing seamless web experiences. My journey in tech is fueled by curiosity and a drive to innovate!
+
+## What I'm Up To
+- 🌐 **Fullstack Web Development**: Diving deep into JavaScript/TypeScript, React, and Node.js to build dynamic and responsive web applications.
+- 💻 **Backend Enthusiast**: Always searching and trying new ways on solving complex problems and optimizing server-side logic.
+- 📚 **Lifelong Learner**: Continuously expanding my skills in Java, Python and C++.
 
 ###
 <div align="center">
